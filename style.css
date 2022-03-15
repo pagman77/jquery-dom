@@ -1,0 +1,13 @@
+
+    img {
+        max-width: 70%;
+      }
+
+      .image-center {
+        display: block;
+        margin: 10px auto;
+      }
+
+.hidden {
+    display: none;
+}
